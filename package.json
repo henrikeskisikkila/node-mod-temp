@@ -1,0 +1,24 @@
+{
+  "name": "node-mod-temp",
+  "version": "1.0.0",
+  "description": "This is Node.js module template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrikeskisikkila/node-mod-temp.git"
+  },
+  "keywords": [
+    "node",
+    "module",
+    "template"
+  ],
+  "author": "Henri Keski-Sikkilä <henri@keskisikkila.fi>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/henrikeskisikkila/node-mod-temp/issues"
+  },
+  "homepage": "https://github.com/henrikeskisikkila/node-mod-temp#readme"
+}
